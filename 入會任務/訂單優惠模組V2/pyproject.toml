@@ -1,0 +1,9 @@
+[project]
+name = "order-module"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "behave>=1.3.3",
+    "pytest>=9.0.2",
+]
